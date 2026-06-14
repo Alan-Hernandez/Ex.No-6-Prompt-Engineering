@@ -14,3 +14,4 @@ The aim is to understand how to request help from AI tools for tasks like writin
 
 
 Result: 
+[Ex6_Multi_AI_Tools_Integration_Pavan.docx](https://github.com/user-attachments/files/28932126/Ex6_Multi_AI_Tools_Integration_Pavan.docx)
